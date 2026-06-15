@@ -1,0 +1,5 @@
+node_modules/
+langflow_env/
+.env
+.DS_Store
+package-lock.json
